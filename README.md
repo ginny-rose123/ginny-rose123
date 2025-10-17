@@ -1,6 +1,6 @@
 ## 👩‍💻 Biography
 
-I am an Economic Advisor in the UK's Civil Service. I am a motivated data analyst, who thrives when finding solutions to challenging analytical problems. I am a proactive self-starter who has significant experience developing research projects from the ground up within a fast-paced and ambiguous environment. I am driven by using evidence to underpin policy and business recommendations which are both ambitious and practical, to maximise the positive social impact. 
+Data Analyst and Economist with experience delivering high-impact research and analytics across environment, gender equality and international development. Skilled in Python, R, SQL, and Tableau, with a strong record of transforming complex datasets into actionable insights that drive evidence-based decision making. Passionate about using data to address environmental and social challenges, and experienced leading analytical teams in fast-paced, policy-oriented environments.
 
 For my full CV and employment history, visit [my LinkedIn](https://www.linkedin.com/in/ginny-rose/)
 
